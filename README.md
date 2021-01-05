@@ -29,6 +29,16 @@ Requirements
 
 You need Python 3 to run CUPP.
 
+
+Instalation
+-----------
+     
+    $ apt-get update && upgrade
+    $ pkg install git
+    $ pkg install python
+    $ pkg install python3
+    $ Git clone https://github.com/Akash-kori-ak47/cupp.py
+
 Quick start
 -----------
 
