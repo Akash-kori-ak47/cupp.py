@@ -87,31 +87,5 @@ http://www.remote-exploit.org/content/cupp-3.0.tar.gz
 http://www.remote-exploit.org/articles/misc_research__amp_code/index.html  
 to encourage further development of the tool.
 
-## Original author
 
-  Muris Kurgas aka j0rgan  
-  j0rgan@remote-exploit.org  
-  http://www.remote-exploit.org  
-  http://www.azuzi.me  
-
-
-## Contributors
-
-  * Bosko Petrovic aka bolexxx  
-  bole_loser@hotmail.com  
-  http://www.offensive-security.com  
-  http://www.bolexxx.net  
-
-  * Mebus  
-    https://github.com/Mebus/  
-
-  * Abhro  
-    https://github.com/Abhro/  
-
-  * Andrea Giacomo  
-    https://github.com/codepr
-
-  * quantumcore  
-    https://github.com/quantumcore
-    
 
