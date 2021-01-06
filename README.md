@@ -41,8 +41,10 @@ Instalation
 
 Quick start
 -----------
-
-    $ python3 cupp.py -h
+    $termux-setup-storage
+    $ls
+    $cd cupp.py
+    $ python3 cupp.py
 
 ## Options
 
